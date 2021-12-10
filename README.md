@@ -1,3 +1,15 @@
+# Creando aplicacion con React
+## Desafio FronTend del curso FullStack de Digital House
+
+<a href="https://github.com/XmauricioX/APLICACION_CON_REACT/blob/main/DESAFIO/M09C01%20-%20Ejercitaci%C3%B3n%20-%20Creando%20una%20aplicaci%C3%B3n%20con%20React%20(1).pdf" >IR AL PDF<a>
+
+## Preview del desafio finalizado
+
+<img src="https://github.com/XmauricioX/APLICACION_CON_REACT/blob/main/PREVIEW/preview1.PNG">
+<img src="https://github.com/XmauricioX/APLICACION_CON_REACT/blob/main/PREVIEW/preview2.PNG">
+
+
+--------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
